@@ -1,0 +1,27 @@
+_repo: In-Jail-with-Charles-Dickens_34112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trumble, Alfred
+    gutenberg_agent_id: '36781'
+    url: http://www.gutenberg.org/2009/agents/36781
+description: ''
+gutenberg_issued: '2010-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dickens, Charles, 1812-1870 -- Knowledge -- Prisons'
+- !lcsh 'Prisons'
+- !lcc 'HV'
+- !lcsh 'Prisons in literature'
+- !lcsh 'Prisons -- England -- London'
+title: In Jail with Charles Dickens
+url: http://www.gutenberg.org/ebooks/34112
